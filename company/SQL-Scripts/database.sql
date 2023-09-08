@@ -1,2 +1,0 @@
-CREATE DATABASE company;
-GRANT ALL PRIVILEGES ON DATABASE company TO postgres;
